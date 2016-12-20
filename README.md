@@ -8,6 +8,6 @@ Please note that the ICSP connector was added to the Arduino Uno PCB view and lo
 LICENSE: <br>
 All content (software and associated documentation) provided in this repo is open source and is released under the MIT License (http://opensource.org/licenses/MIT).
 
-Copyright (c) 2016 Colin Gerrish
+Copyright (c) 2016 C Gerrish
 
 
